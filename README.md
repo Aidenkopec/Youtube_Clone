@@ -1,3 +1,9 @@
+# Youtube Clone App
+
+This YouTube-clone app is a fully-featured video-sharing platform that allows users to view, and share videos. The app has a sleek and user-friendly design that makes it easy to navigate and find the content you're looking for. Users can browse through a variety of categories such as music, comedy, education, and more. They can also search for specific videos and channels.
+
+The app also allows users to like, comment and subscribe to other users' channels. The app also provides a feature of video recommendations. Additionally, the app has an inbuilt video player that supports different video formats and resolutions, and also has an option to switch to full-screen mode.
+
 <img width="1788" alt="Screenshot 2023-01-17 at 7 55 19 PM" src="https://user-images.githubusercontent.com/97480728/213071135-89c1bfe0-239e-43d9-acd0-154c8f1b043f.png">
 
 <img width="1783" alt="Screenshot 2023-01-17 at 7 55 44 PM" src="https://user-images.githubusercontent.com/97480728/213071181-1898feb3-3995-443e-9099-cb26ca47944e.png">
